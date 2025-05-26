@@ -1,0 +1,34 @@
+# === Build artifacts ===
+/obj/
+/forkit
+
+# === Editor junk ===
+*~
+*.swp
+*.swo
+
+
+.DS_Store
+
+# === Logs and debug ===
+*.log
+*.out
+*.err
+gmon.out
+
+# === OS-specific ===
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# === VSCode or IDEs ===
+.vscode/
+.idea/
+
+# === Makefile backups ===
+Makefile.bak
+
+# === ctags/cscope ===
+tags
+cscope.*
+
